@@ -6,7 +6,7 @@ int main()
     vector<int>v= {1,2,3,4,5};
     //Enhanced for loop
     //For-each loop
-    //Rnage Based for loop
+    //Range Based for loop
     for(int i:v) {
         cout<<i<<" ";
     }
