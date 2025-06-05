@@ -16,7 +16,7 @@ Whether you're preparing for coding interviews, brushing up for a contest, or ju
 ## ✨ STL in Action (Animation)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Coding Animation" width="500"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cute Cat Coding" width="400"/>
 </div>
 
 ---
